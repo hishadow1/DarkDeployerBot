@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌑 DarkNodes
+# 🌑 DarkDeployer
 
 **A Discord bot that lets you deploy and manage VPS servers without ever leaving Discord.**
 
@@ -11,6 +11,7 @@
 
 </div>
 
+~ Made By ### SHADOW GAMER
 ---
 
 ## What is DarkNodes?
