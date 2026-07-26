@@ -11,10 +11,10 @@
 
 </div>
 
-     ~ Made By SHADOW GAMER
+        ~ Made By SHADOW GAMER
 ---
 
-## What is DarkNodes?
+## What is DarkDeployer?
 
 DarkNodes is a Discord bot that turns your server into a full VPS hosting panel. Users can spin up Linux containers, manage their files, run commands, and control everything through slash commands — no web dashboard needed.
 
